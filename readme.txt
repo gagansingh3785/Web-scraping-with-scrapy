@@ -3,3 +3,5 @@
 ==>The requirements.txt files contains the dependencies that are required for this project to work properly
 
 ==>To get the output in json and csv format just run the spider_run.bat file
+
+Note: The image links for a particular necklace set have been concatenated together using ';' delimiter
